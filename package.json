@@ -1,6 +1,6 @@
 {
   "name": "react-native-interactive-tutorial",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Interactive tutorial with step-by-step guide",
   "source": "./src/index.tsx",
   "main": "./lib/commonjs/index.js",
