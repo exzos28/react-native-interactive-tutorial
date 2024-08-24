@@ -2,7 +2,7 @@
 
 Interactive tutorial with step-by-step guide
 
-![Usage](./media/gif2.gif)
+<img src="./media/gif2.gif" width="700" />
 
 ## Installation
 
