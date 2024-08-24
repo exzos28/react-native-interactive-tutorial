@@ -2,8 +2,7 @@
 
 Interactive tutorial with step-by-step guide
 
-<img src="./media/usage_gif.gif" width="600" alt='usage' />
-
+![Usage](./media/gif2.gif)
 
 ## Installation
 
